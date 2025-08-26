@@ -4,3 +4,4 @@ This repo includes uploads from the IBM Data Science Certification, it includes:
 - Querying databases using SQLite3: a submission for the Final Assignment for Course 6 in the IBM Data Science Certification
 - Data Analytics for House Pricing Data Set: a submission for the Final Assignment for Course 7 in the IBM Data Science Certification
 - Data Visualisation for Wildfire Activity in Australia for the Final Assignment for Course 8 in the IBM Data Science Certification
+- Building a rainfall prediction classifier using Logistic Regression and Random Forest Classifier models for the Final Assignment for Course 9 in the IBM Data Science Ceritification
