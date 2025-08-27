@@ -6,3 +6,4 @@ This repo includes uploads from the IBM Data Science Certification, it includes:
 - Data Visualisation for Wildfire Activity in Australia for the Final Assignment for Course 8 in the IBM Data Science Certification
 - Building a rainfall prediction classifier using Logistic Regression and Random Forest Classifier models for the Final Assignment for Course 9 in the IBM Data Science Ceritification
 - Collecting data on SpaceX Falcon 9 Rockets for the Data Collection API Lab for Course 10 Module 1 in the IBM Data Science Certification.
+- Collecting data on SpaceX Falcon 9 Rockets for the Data Collection Web Scraping Lab for Course 10 Module 1 in the IBM Data Science Certification.
