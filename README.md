@@ -8,3 +8,4 @@ This repo includes uploads from the IBM Data Science Certification, it includes:
 - Collecting data on SpaceX Falcon 9 Rockets for the Data Collection API Lab for Course 10 Module 1 in the IBM Data Science Certification.
 - Collecting data on SpaceX Falcon 9 Rockets for the Data Collection Web Scraping Lab for Course 10 Module 1 in the IBM Data Science Certification.
 - Hot encoded successful / unsuccessful landings in SpaceX Falcon 9 Rockets data for Data Wrangling Lab for Course 10 Moule 1 in the IBM Data Science Certification.
+- Extraceted and manipulated SpaceX Falcon 9 data from a database using sqlite3 in python for EDA with SQL Lab for Course 10 Module 2 in the IBM Data Science Certification.
