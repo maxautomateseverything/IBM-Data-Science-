@@ -11,3 +11,4 @@ This repo includes uploads from the IBM Data Science Certification, it includes:
 - Extraceted and manipulated SpaceX Falcon 9 data from a database using sqlite3 in python for EDA with SQL Lab for Course 10 Module 2 in the IBM Data Science Certification.
 - Performed EDA on the SpaceX Falcon 9 dataset for EDA with Visualisation Lab for Course 10 Module 2 in the IBM Data Science Certification.
 - Used Folium to visualise SpaceX Falcon 9 launch sites and their proximity to chosen locations for Interactive Visual Analytics with Folium Lab for Module 3 in the IBM Data Science Certification.
+- Used Plotly Dash to create an interactive dashboard for SpaceX Falcon 9 Launch data for Module 3 in the IBM Data Science Certification.
