@@ -13,3 +13,4 @@ This repo includes uploads from the IBM Data Science Certification, it includes:
 - Used Folium to visualise SpaceX Falcon 9 launch sites and their proximity to chosen locations for Interactive Visual Analytics with Folium Lab for Course 10 Module 3 in the IBM Data Science Certification.
 - Used Plotly Dash to create an interactive dashboard for SpaceX Falcon 9 Launch data for Course 10 Module 3 in the IBM Data Science Certification.
 - Trained machine learning models (Logistic Regression, SVM, Regression Trees, KNN) to predict landing outcomes of SpaceX Falcon 9 rockets for Course 10 Module 4 in the IBM Data Science Certification.
+- Using generative AI for data visualisation for Course 11 Module 2 in the IBM Data Science Certification.
